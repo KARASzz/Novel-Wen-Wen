@@ -1,0 +1,2 @@
+V1 | ch1 han=2831 nonspace=3385 | ch2 han=2793 nonspace=3440 | ch3 han=3123 nonspace=3781 | total han=8759 nonspace=10629
+V2 | ch1 han=2842 nonspace=3393 | ch2 han=2836 nonspace=3491 | ch3 han=3138 nonspace=3815 | total han=8854 nonspace=10767

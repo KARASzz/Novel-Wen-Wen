@@ -1,0 +1,7 @@
+ch10 han=1823 nonspace=2191 OUT
+ch4 han=2812 nonspace=3270 OK
+ch5 han=2815 nonspace=3321 OK
+ch6 han=2757 nonspace=3216 OUT
+ch7 han=2828 nonspace=3289 OK
+ch8 han=1339 nonspace=1627 OUT
+ch9 han=1101 nonspace=1344 OUT
