@@ -14,10 +14,16 @@ D = r"D:\+Python\Novel-Wen-Wen\第一卷"
 
 def body_of(path):
     t = open(path, encoding="utf-8").read()
+    # `## 正文` 是正文段头，不算正文也不算分段；其余第一个 `## ` 起的内容截掉。
     i = t.find("\n## ")
-    body = t[:i] if i != -1 else t
+    while i != -1 and t[i + 1:i + 6].startswith("## 正文"):
+        line_end = t.find("\n", i + 1)
+        t = t[:i] + t[line_end:]
+        i = t.find("\n## ")
+    if i != -1:
+        t = t[:i]
     return "\n".join(
-        l for l in body.split("\n")
+        l for l in t.split("\n")
         if not re.match(r"^#\s*第", l) and not re.match(r"^#\s*《", l)
     )
 
