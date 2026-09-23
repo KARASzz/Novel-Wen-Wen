@@ -7,7 +7,7 @@ import re
 import sys
 import os
 
-D = r"D:\+Python\Novel-Wen-Wen\第一卷"
+D = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 
 def _body(t):

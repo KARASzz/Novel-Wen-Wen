@@ -1,15 +1,16 @@
 # -*- coding: utf-8 -*-
 """章节交付前自检（对齐项目系统指令的「AI 写稿自检五条」部分项）。
 检查范围仅正文：截掉第一个 '## ' 起的状态账本/修订记录。
-1) 章号泄漏：正文里出现「第N章」
-2) 半角标点：正文里出现 , . ; : ! ? ( ) 等半角符号
-3) 「不是…是…」句式计数（句内共现）
+1) 章号泄漏：正文里出现「第N章」（含「第 30 章」这种带空格的写法）
+2) 作者目录用语泄漏：第一卷/第二卷/本卷/上一卷/分卷大纲/章纲/清单（见 AGENTS.md 自检）
+3) 半角标点：正文里出现 , ; : ! ? ( ) " 等半角符号
+4) 「不是…是…」句式计数（句内共现）
 """
 import re
 import sys
 import os
 
-D = r"D:\+Python\Novel-Wen-Wen\第一卷"
+D = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 
 def body_of(path):
@@ -40,9 +41,11 @@ if __name__ == "__main__":
     for a in sys.argv[1:]:
         p = a if os.path.isabs(a) else os.path.join(D, a)
         txt = body_of(p)
-        zh = re.findall(r"第\d+章", txt)
+        zh = re.findall(r"第\s*\d+\s*章", txt)
+        vol = re.findall(r"第一卷|第二卷|本卷|上一卷|分卷大纲|章纲|清单", txt)
         half = re.findall(r"[,;:!?()\"]", txt)
         print(f"{os.path.basename(p)}")
         print(f"   章号泄漏: {len(zh)} {zh[:6]}")
+        print(f"   目录用语: {len(vol)} {vol[:6]}")
         print(f"   半角标点: {len(half)} {sorted(set(half))}")
         print(f"   不是…是…句式: {pairs(txt)}   含「不是」句: {len(re.findall('不是', txt))}")
