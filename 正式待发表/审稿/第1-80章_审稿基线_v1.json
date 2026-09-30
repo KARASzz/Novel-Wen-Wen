@@ -1,0 +1,731 @@
+{
+  "master": "正式待发表/《我真不是霸主文明》1-80.txt",
+  "sha256": "d2bd87de2a8eb860bc2f68a1b9d77b17340ec9e844ead6f37ef645fd362ae6e9",
+  "chapters": [
+    {
+      "chapter": 1,
+      "single": "正式待发表/第1章_正文_v3.md",
+      "matches": true,
+      "body_hanzi": 2899,
+      "combined_start_line": 3,
+      "combined_end_line": 222
+    },
+    {
+      "chapter": 2,
+      "single": "正式待发表/第2章_正文_v3.md",
+      "matches": false,
+      "body_hanzi": 2829,
+      "combined_start_line": 223,
+      "combined_end_line": 458
+    },
+    {
+      "chapter": 3,
+      "single": "正式待发表/第3章_正文_v3.md",
+      "matches": false,
+      "body_hanzi": 2986,
+      "combined_start_line": 459,
+      "combined_end_line": 693
+    },
+    {
+      "chapter": 4,
+      "single": "正式待发表/第4章_虫子不吃这个_正文_v2.md",
+      "matches": false,
+      "body_hanzi": 3272,
+      "combined_start_line": 694,
+      "combined_end_line": 911
+    },
+    {
+      "chapter": 5,
+      "single": "正式待发表/第5章_钉子扫描失败_正文_v2.md",
+      "matches": false,
+      "body_hanzi": 2859,
+      "combined_start_line": 912,
+      "combined_end_line": 1095
+    },
+    {
+      "chapter": 6,
+      "single": "正式待发表/第6章_黑屏三秒以后_正文_v2.md",
+      "matches": false,
+      "body_hanzi": 2857,
+      "combined_start_line": 1096,
+      "combined_end_line": 1295
+    },
+    {
+      "chapter": 7,
+      "single": "正式待发表/第7章_禁止扫描_正文_v2.md",
+      "matches": false,
+      "body_hanzi": 2821,
+      "combined_start_line": 1296,
+      "combined_end_line": 1467
+    },
+    {
+      "chapter": 8,
+      "single": "正式待发表/第8章_我只想买个二手推进阀_正文_v2.md",
+      "matches": false,
+      "body_hanzi": 2838,
+      "combined_start_line": 1468,
+      "combined_end_line": 1647
+    },
+    {
+      "chapter": 9,
+      "single": "正式待发表/第9章_无所属文明编制_正文_v3.md",
+      "matches": false,
+      "body_hanzi": 2805,
+      "combined_start_line": 1648,
+      "combined_end_line": 1822
+    },
+    {
+      "chapter": 10,
+      "single": "正式待发表/第10章_总督的低烈度试探_正文_v3.md",
+      "matches": false,
+      "body_hanzi": 2839,
+      "combined_start_line": 1823,
+      "combined_end_line": 2004
+    },
+    {
+      "chapter": 11,
+      "single": "正式待发表/第11章_文明级风险保证金_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2942,
+      "combined_start_line": 2005,
+      "combined_end_line": 2220
+    },
+    {
+      "chapter": 12,
+      "single": "正式待发表/第12章_退不回去的礼物_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2841,
+      "combined_start_line": 2221,
+      "combined_end_line": 2411
+    },
+    {
+      "chapter": 13,
+      "single": "正式待发表/第13章_风险记录第一条_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2827,
+      "combined_start_line": 2412,
+      "combined_end_line": 2611
+    },
+    {
+      "chapter": 14,
+      "single": "正式待发表/第14章_虫子啃了接待厅_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2830,
+      "combined_start_line": 2612,
+      "combined_end_line": 2797
+    },
+    {
+      "chapter": 15,
+      "single": "正式待发表/第15章_钉子偷拆辅助机器人_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 3002,
+      "combined_start_line": 2798,
+      "combined_end_line": 2990
+    },
+    {
+      "chapter": 16,
+      "single": "正式待发表/第16章_总署收到报告_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2836,
+      "combined_start_line": 2991,
+      "combined_end_line": 3183
+    },
+    {
+      "chapter": 17,
+      "single": "正式待发表/第17章_习惯让路的后果_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2805,
+      "combined_start_line": 3184,
+      "combined_end_line": 3358
+    },
+    {
+      "chapter": 18,
+      "single": "正式待发表/第18章_兄弟你全责_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2875,
+      "combined_start_line": 3359,
+      "combined_end_line": 3551
+    },
+    {
+      "chapter": 19,
+      "single": "正式待发表/第19章_律师已经在路上_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2811,
+      "combined_start_line": 3552,
+      "combined_end_line": 3760
+    },
+    {
+      "chapter": 20,
+      "single": "正式待发表/第20章_人类网络先炸了_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2866,
+      "combined_start_line": 3761,
+      "combined_end_line": 3937
+    },
+    {
+      "chapter": 21,
+      "single": "正式待发表/第21章_火星交通仲裁庭受理_正文_v2.md",
+      "matches": false,
+      "body_hanzi": 3290,
+      "combined_start_line": 3938,
+      "combined_end_line": 4142
+    },
+    {
+      "chapter": 22,
+      "single": "正式待发表/第22章_不管你是不是霸主_正文_v2.md",
+      "matches": false,
+      "body_hanzi": 2844,
+      "combined_start_line": 4143,
+      "combined_end_line": 4338
+    },
+    {
+      "chapter": 23,
+      "single": "正式待发表/第23章_总署看不懂人类_正文_v2.md",
+      "matches": false,
+      "body_hanzi": 3239,
+      "combined_start_line": 4339,
+      "combined_end_line": 4514
+    },
+    {
+      "chapter": 24,
+      "single": "正式待发表/第24章_事故发生了_正文_v2.md",
+      "matches": false,
+      "body_hanzi": 2896,
+      "combined_start_line": 4515,
+      "combined_end_line": 4691
+    },
+    {
+      "chapter": 25,
+      "single": "正式待发表/第25章_银河传媒闻到味了_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2852,
+      "combined_start_line": 4692,
+      "combined_end_line": 4841
+    },
+    {
+      "chapter": 26,
+      "single": "正式待发表/第26章_实习记者上线_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2811,
+      "combined_start_line": 4842,
+      "combined_end_line": 5019
+    },
+    {
+      "chapter": 27,
+      "single": "正式待发表/第27章_审判舰极简生活_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2803,
+      "combined_start_line": 5020,
+      "combined_end_line": 5207
+    },
+    {
+      "chapter": 28,
+      "single": "正式待发表/第28章_虫子和钉子入镜_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2935,
+      "combined_start_line": 5208,
+      "combined_end_line": 5374
+    },
+    {
+      "chapter": 29,
+      "single": "正式待发表/第29章_标题比谣言还可怕_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2803,
+      "combined_start_line": 5375,
+      "combined_end_line": 5546
+    },
+    {
+      "chapter": 30,
+      "single": "正式待发表/第30章_泡面午餐肉爆红_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 3050,
+      "combined_start_line": 5547,
+      "combined_end_line": 5738
+    },
+    {
+      "chapter": 31,
+      "single": "正式待发表/第31章_第一条求助留言_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2809,
+      "combined_start_line": 5739,
+      "combined_end_line": 5892
+    },
+    {
+      "chapter": 32,
+      "single": "正式待发表/第32章_澄清报道失败_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2808,
+      "combined_start_line": 5893,
+      "combined_end_line": 6060
+    },
+    {
+      "chapter": 33,
+      "single": "正式待发表/第33章_两个文明开火_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2814,
+      "combined_start_line": 6061,
+      "combined_end_line": 6231
+    },
+    {
+      "chapter": 34,
+      "single": "正式待发表/第34章_凯瑟琳的频道_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2837,
+      "combined_start_line": 6232,
+      "combined_end_line": 6421
+    },
+    {
+      "chapter": 35,
+      "single": "正式待发表/第35章_我不是审判舰_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2812,
+      "combined_start_line": 6422,
+      "combined_end_line": 6585
+    },
+    {
+      "chapter": 36,
+      "single": "正式待发表/第36章_总署全程观察_正文_v2.md",
+      "matches": false,
+      "body_hanzi": 2938,
+      "combined_start_line": 6586,
+      "combined_end_line": 6764
+    },
+    {
+      "chapter": 37,
+      "single": "正式待发表/第37章_我只要五秒_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2860,
+      "combined_start_line": 6765,
+      "combined_end_line": 6925
+    },
+    {
+      "chapter": 38,
+      "single": "正式待发表/第38章_撤离船通过_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2808,
+      "combined_start_line": 6926,
+      "combined_end_line": 7097
+    },
+    {
+      "chapter": 39,
+      "single": "正式待发表/第39章_我真不是霸主文明_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2808,
+      "combined_start_line": 7098,
+      "combined_end_line": 7253
+    },
+    {
+      "chapter": 40,
+      "single": "正式待发表/第40章_临时舰长声纹采集完成_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2801,
+      "combined_start_line": 7254,
+      "combined_end_line": 7438
+    },
+    {
+      "chapter": 41,
+      "single": "正式待发表/第41章_张霸天专项会议_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2843,
+      "combined_start_line": 7439,
+      "combined_end_line": 7589
+    },
+    {
+      "chapter": 42,
+      "single": "正式待发表/第42章_控制派庞永和_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2847,
+      "combined_start_line": 7590,
+      "combined_end_line": 7755
+    },
+    {
+      "chapter": 43,
+      "single": "正式待发表/第43章_保护派乔纳斯_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2886,
+      "combined_start_line": 7756,
+      "combined_end_line": 7931
+    },
+    {
+      "chapter": 44,
+      "single": "正式待发表/第44章_人类碰瓷模型崩溃_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2839,
+      "combined_start_line": 7932,
+      "combined_end_line": 8099
+    },
+    {
+      "chapter": 45,
+      "single": "正式待发表/第45章_修船申请全被拒_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2822,
+      "combined_start_line": 8100,
+      "combined_end_line": 8304
+    },
+    {
+      "chapter": 46,
+      "single": "正式待发表/第46章_买阀门也是外交事件_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2820,
+      "combined_start_line": 8305,
+      "combined_end_line": 8510
+    },
+    {
+      "chapter": 47,
+      "single": "正式待发表/第47章_太阳系观察站_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2817,
+      "combined_start_line": 8511,
+      "combined_end_line": 8667
+    },
+    {
+      "chapter": 48,
+      "single": "正式待发表/第48章_不要逼他到墙角_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2806,
+      "combined_start_line": 8668,
+      "combined_end_line": 8812
+    },
+    {
+      "chapter": 49,
+      "single": "正式待发表/第49章_莉莉娅的后续报道_正文_v1.md",
+      "matches": true,
+      "body_hanzi": 2827,
+      "combined_start_line": 8813,
+      "combined_end_line": 9015
+    },
+    {
+      "chapter": 50,
+      "single": "正式待发表/第50章_旧工作服的意义_正文_v2.md",
+      "matches": false,
+      "body_hanzi": 3047,
+      "combined_start_line": 9016,
+      "combined_end_line": 9211
+    },
+    {
+      "chapter": 51,
+      "single": "正式待发表/第51章_午餐肉涨价_正文_v2.md",
+      "matches": true,
+      "body_hanzi": 2943,
+      "combined_start_line": 9212,
+      "combined_end_line": 9421
+    },
+    {
+      "chapter": 52,
+      "single": "正式待发表/第52章_钉子的废件圣物_正文_v2.md",
+      "matches": false,
+      "body_hanzi": 2870,
+      "combined_start_line": 9422,
+      "combined_end_line": 9582
+    },
+    {
+      "chapter": 53,
+      "single": "正式待发表/第53章_舰长语录第一版_正文_v2.md",
+      "matches": false,
+      "body_hanzi": 2954,
+      "combined_start_line": 9583,
+      "combined_end_line": 9799
+    },
+    {
+      "chapter": 54,
+      "single": "正式待发表/第54章_声明被误读_正文_v2.md",
+      "matches": false,
+      "body_hanzi": 2882,
+      "combined_start_line": 9800,
+      "combined_end_line": 9983
+    },
+    {
+      "chapter": 55,
+      "single": "正式待发表/第55章_第一批崇拜者_正文_v2.md",
+      "matches": true,
+      "body_hanzi": 2908,
+      "combined_start_line": 9984,
+      "combined_end_line": 10186
+    },
+    {
+      "chapter": 56,
+      "single": "正式待发表/第56章_午餐肉代言合同_正文_v1.md",
+      "matches": true,
+      "body_hanzi": 2841,
+      "combined_start_line": 10187,
+      "combined_end_line": 10413
+    },
+    {
+      "chapter": 57,
+      "single": "正式待发表/第57章_破船内部影像悬赏_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2931,
+      "combined_start_line": 10414,
+      "combined_end_line": 10625
+    },
+    {
+      "chapter": 58,
+      "single": "正式待发表/第58章_港口维修员被收买_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2911,
+      "combined_start_line": 10626,
+      "combined_end_line": 10831
+    },
+    {
+      "chapter": 59,
+      "single": "正式待发表/第59章_远程扫描翻车_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2806,
+      "combined_start_line": 10832,
+      "combined_end_line": 11041
+    },
+    {
+      "chapter": 60,
+      "single": "正式待发表/第60章_钉子又背锅_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2839,
+      "combined_start_line": 11042,
+      "combined_end_line": 11239
+    },
+    {
+      "chapter": 61,
+      "single": "正式待发表/第61章_莉莉娅追查盗版源头_正文_v1.md",
+      "matches": true,
+      "body_hanzi": 2811,
+      "combined_start_line": 11240,
+      "combined_end_line": 11423
+    },
+    {
+      "chapter": 62,
+      "single": "正式待发表/第62章_疑似审判舰废件_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 3006,
+      "combined_start_line": 11424,
+      "combined_end_line": 11631
+    },
+    {
+      "chapter": 63,
+      "single": "正式待发表/第63章_伪协议残页_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2881,
+      "combined_start_line": 11632,
+      "combined_end_line": 11818
+    },
+    {
+      "chapter": 64,
+      "single": "正式待发表/第64章_旧东西不该在黑市_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2941,
+      "combined_start_line": 11819,
+      "combined_end_line": 12029
+    },
+    {
+      "chapter": 65,
+      "single": "正式待发表/第65章_求助留言暴涨_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2901,
+      "combined_start_line": 12030,
+      "combined_end_line": 12246
+    },
+    {
+      "chapter": 66,
+      "single": "正式待发表/第66章_莉莉娅开始分类_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2951,
+      "combined_start_line": 12247,
+      "combined_end_line": 12452
+    },
+    {
+      "chapter": 67,
+      "single": "正式待发表/第67章_总署警告_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2833,
+      "combined_start_line": 12453,
+      "combined_end_line": 12583
+    },
+    {
+      "chapter": 68,
+      "single": "正式待发表/第68章_假求助_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2939,
+      "combined_start_line": 12584,
+      "combined_end_line": 12788
+    },
+    {
+      "chapter": 69,
+      "single": "正式待发表/第69章_最紧急的一件_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2959,
+      "combined_start_line": 12789,
+      "combined_end_line": 13009
+    },
+    {
+      "chapter": 70,
+      "single": "正式待发表/第70章_已经交出三座城市_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2881,
+      "combined_start_line": 13010,
+      "combined_end_line": 13200
+    },
+    {
+      "chapter": 71,
+      "single": "正式待发表/第71章_不是我发的命令_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2869,
+      "combined_start_line": 13201,
+      "combined_end_line": 13444
+    },
+    {
+      "chapter": 72,
+      "single": "正式待发表/第72章_求助频道雏形_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2820,
+      "combined_start_line": 13445,
+      "combined_end_line": 13614
+    },
+    {
+      "chapter": 73,
+      "single": "正式待发表/第73章_假审判令_正文_v1.md",
+      "matches": true,
+      "body_hanzi": 2841,
+      "combined_start_line": 13615,
+      "combined_end_line": 13775
+    },
+    {
+      "chapter": 74,
+      "single": "正式待发表/第74章_真权限压不死假协议_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2800,
+      "combined_start_line": 13776,
+      "combined_end_line": 13955
+    },
+    {
+      "chapter": 75,
+      "single": "正式待发表/第75章_报道被反向利用_正文_v1.md",
+      "matches": true,
+      "body_hanzi": 2854,
+      "combined_start_line": 13956,
+      "combined_end_line": 14148
+    },
+    {
+      "chapter": 76,
+      "single": "正式待发表/第76章_庞永和要求压制传播_正文_v1.md",
+      "matches": true,
+      "body_hanzi": 2856,
+      "combined_start_line": 14149,
+      "combined_end_line": 14309
+    },
+    {
+      "chapter": 77,
+      "single": "正式待发表/第77章_乔纳斯盯上旧协议_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2902,
+      "combined_start_line": 14310,
+      "combined_end_line": 14519
+    },
+    {
+      "chapter": 78,
+      "single": "正式待发表/第78章_幕后剪影_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2807,
+      "combined_start_line": 14520,
+      "combined_end_line": 14704
+    },
+    {
+      "chapter": 79,
+      "single": "正式待发表/第79章_比我还像真的_正文_v1.md",
+      "matches": true,
+      "body_hanzi": 2954,
+      "combined_start_line": 14705,
+      "combined_end_line": 14914
+    },
+    {
+      "chapter": 80,
+      "single": "正式待发表/第80章_霸主最后通牒_正文_v1.md",
+      "matches": false,
+      "body_hanzi": 2810,
+      "combined_start_line": 14915,
+      "combined_end_line": 15094
+    }
+  ],
+  "source_hashes": {
+    "正式待发表/第1章_正文_v3.md": "be42467e94981d8b603b17a847d883356169d2be9667ec42ad6da9fd27da47cd",
+    "正式待发表/第71章_不是我发的命令_正文_v1.md": "0bd19b9723192b402bd2dca7770679b4ec0533bf6b232d816506af4223ce7205",
+    "正式待发表/第39章_我真不是霸主文明_正文_v1.md": "a522e825d11f704ab9b762a7cb0f399e02806ebdb64f9f187bdf0dd35ab91c12",
+    "正式待发表/第13章_风险记录第一条_正文_v1.md": "a5baf88d9de258c49dac5696a4792b0b0d280b15f1a0aaf7a9f6759c20821fc6",
+    "正式待发表/第7章_禁止扫描_正文_v2.md": "25c6d1a39adb36bad369e21040169d41aaede68a6075a0537c40d5b9620b2254",
+    "正式待发表/第20章_人类网络先炸了_正文_v1.md": "29bba95d930172801569d808d0805ed19b7412d2cdec062122c2a2fa7273b55e",
+    "正式待发表/第53章_舰长语录第一版_正文_v2.md": "0822670b0c0ff3e0e4acc2a2479a1fff94cb9102cf8ae6e4524067b765d0a513",
+    "正式待发表/第67章_总署警告_正文_v1.md": "ed370c3816ba0c1babc933b1d81ee6ea7e926ab9163f6862ad29ece81e62caeb",
+    "正式待发表/第10章_总督的低烈度试探_正文_v3.md": "2f3dcf893f18738167f3a24331e7cf581a03118655cc39abed0f275d44c9d64a",
+    "正式待发表/第60章_钉子又背锅_正文_v1.md": "31b34c15f0636b92a7d3a4967c5f7c7f14252e6bf986bc53cf96eeffb13731e5",
+    "正式待发表/第80章_霸主最后通牒_正文_v1.md": "418958a063c5954ce97420ad52a1f76c40a4873c6c7eca5b06aa5e03a91b5243",
+    "正式待发表/第43章_保护派乔纳斯_正文_v1.md": "4b968739439e6cdb4b45b39b2b960ce2d488d01e0a79572e27a09f9ec6e0738d",
+    "正式待发表/第49章_莉莉娅的后续报道_正文_v1.md": "09882522b7aba62288572aa40291668d9a5cd20b1b4132cf2de55d1cfb6a1398",
+    "正式待发表/第48章_不要逼他到墙角_正文_v1.md": "19807149c4ef14f9c58709bea7c515a665c5ff16049a788e746e33148e444aaa",
+    "正式待发表/第40章_临时舰长声纹采集完成_正文_v1.md": "d35bb4fe3ef2e9ec4616b56394a581d72265725d643440b952d48ad2f5d7f90b",
+    "正式待发表/第14章_虫子啃了接待厅_正文_v1.md": "8a30f61125acad4b77e1ff71cbbb31db1e4e63a490b58a504d979fd58c01c4f5",
+    "正式待发表/第75章_报道被反向利用_正文_v1.md": "3d8e83b5a2cd7f3f0265e96455defe3a6fa654156f16f0cfff2e62e8b2a6f9b8",
+    "正式待发表/第12章_退不回去的礼物_正文_v1.md": "a567743569978aae0e96b10358f9351b71ba90d4adda027ab19287d1920d3c5f",
+    "正式待发表/第34章_凯瑟琳的频道_正文_v1.md": "ea2fd29e873e39a006be6de5ee6982e05b13a73336091b5532a726fa08079985",
+    "正式待发表/第33章_两个文明开火_正文_v1.md": "c9effe96d2f3392c2b4e64e762bbac05830bccf59b143b6b9a2684c52a796afa",
+    "正式待发表/第18章_兄弟你全责_正文_v1.md": "4a297387efc3c3d9bb8f9c75a0ec64dff3ae2b3e0d8ec71ef69c281da53b88aa",
+    "正式待发表/第11章_文明级风险保证金_正文_v1.md": "4d0222eb650a0bb5d4b06474928301d24cc973ea977c4ac2e0fd0af16d4ed6f5",
+    "正式待发表/第74章_真权限压不死假协议_正文_v1.md": "64aee4c56e3e70d9f8167e344daf5b0814215808a9aaa622936e19b0c1a0f6be",
+    "正式待发表/第63章_伪协议残页_正文_v1.md": "d193d05b5c6eed5eec23714cceb0d9a85fe559ab7e6bb2199e78417d82ceaef9",
+    "正式待发表/第58章_港口维修员被收买_正文_v1.md": "6b503df516829e5f65202058357979a1555c90f6b681181993eab6633f1efa6a",
+    "正式待发表/第25章_银河传媒闻到味了_正文_v1.md": "8de0400d51f8ffe43e04c3ae8d79d99f29bc55ef85adfe2aa04b237854146f5f",
+    "正式待发表/第45章_修船申请全被拒_正文_v1.md": "b56e3051aa6369f13a59e54723bcbb938c761d6fba3c7cc6e98e45c5cfdde767",
+    "正式待发表/第64章_旧东西不该在黑市_正文_v1.md": "021a4949b713ef27abc649616a31582c071856b2d44a515a1a97ab2e93f098a7",
+    "正式待发表/第38章_撤离船通过_正文_v1.md": "317bcd824bb5cea4e5a46fede12e99e2de59a808f7dc769290275c08af5d831a",
+    "正式待发表/第79章_比我还像真的_正文_v1.md": "4b0dc7a6b57271e5b52c8893407b2e7688cf47de568c7e3df543b1c6ba7eb8de",
+    "正式待发表/第5章_钉子扫描失败_正文_v2.md": "f19c4c67d5e2a442e1689a2220f7ae3f874e7651f7c955f797ac682e00bf0d24",
+    "正式待发表/第57章_破船内部影像悬赏_正文_v1.md": "5ba063bb26a6aecc9ca73621c7e9085a511ef2a541904004fe03a58813d1392a",
+    "正式待发表/第19章_律师已经在路上_正文_v1.md": "2071887a1e5ceb7487bfe2530367da38d1879e9f266ea2dbb0a7b87dd30c3e75",
+    "正式待发表/第36章_总署全程观察_正文_v2.md": "ed0efd78c6bbe9009c1b0eb8c8391bbe1e943fdf17a7093fa89c5ed4fa03dcda",
+    "正式待发表/第69章_最紧急的一件_正文_v1.md": "2940d2431bf8a3094de3d6db1d968dc653d5b12a098c17b7d34c8366987905e6",
+    "正式待发表/第55章_第一批崇拜者_正文_v2.md": "41feaf819225748d50b13235708b85347aa209c5c7789243aed5363c2b6bb774",
+    "正式待发表/《我真不是霸主文明》1-80.txt": "d2bd87de2a8eb860bc2f68a1b9d77b17340ec9e844ead6f37ef645fd362ae6e9",
+    "正式待发表/第37章_我只要五秒_正文_v1.md": "dc9bd98abb85d22ecceed55f9ab034671637ad5050783b74eadce01ee7a5cde3",
+    "正式待发表/第46章_买阀门也是外交事件_正文_v1.md": "c7f64e15ed21f1e3bff7331cf279f522ef0f981189f2bde47e885a7326ad4f10",
+    "正式待发表/第8章_我只想买个二手推进阀_正文_v2.md": "415b844235e705c0a39cfece933bbece1de99e01af51032282dcc5ff78246b29",
+    "正式待发表/第41章_张霸天专项会议_正文_v1.md": "11e9df34439c8d53dd9390120bd6705c212fcb3ff874a282250cc41414d4de72",
+    "正式待发表/第3章_正文_v3.md": "2c0e3a6a903b5621e68e081705f2d8cea7943510f9ae1f0fbcbe7496986ffdb9",
+    "正式待发表/第16章_总署收到报告_正文_v1.md": "1949c7c294867ecb9314f085b348dd27f91a54721f76d806258caae14a36d555",
+    "正式待发表/第78章_幕后剪影_正文_v1.md": "fc80ff889eb35304f04b4260ae1fb983bfefadf4c6e42c029edb490f2d545753",
+    "正式待发表/第59章_远程扫描翻车_正文_v1.md": "3cb6751e5a56637d7df9d845505dc8259ec3a723b66327ac601babbfdb097053",
+    "正式待发表/第50章_旧工作服的意义_正文_v2.md": "a5faf3f9823e8e81215f360fb1ecb29f203cfcd144a8c9ae1d6ab0b133a5e841",
+    "正式待发表/第17章_习惯让路的后果_正文_v1.md": "b80461136a4373cbd4d142215c757b99898fffec99b54c5b9d2fe95b08ac2567",
+    "正式待发表/第27章_审判舰极简生活_正文_v1.md": "fccc2e4c36165eed2237a9fcf6d77baa520cac2a61a889b89f42567063cf0189",
+    "正式待发表/第23章_总署看不懂人类_正文_v2.md": "be0511efa26d8a7e95baeb7ea528f66a71c207ff22e6998bd6af5e8bcd4a966f",
+    "正式待发表/第72章_求助频道雏形_正文_v1.md": "11c5ddb27d7aaa1fedb0837ad6eddd6dce2514462edae97c6800d66d4b451f71",
+    "正式待发表/第62章_疑似审判舰废件_正文_v1.md": "e984df3e0480d7c120480346404f31290adad55ca3cc023aa84074e5b7ffd819",
+    "正式待发表/第32章_澄清报道失败_正文_v1.md": "0f4f53f3e1051912e563888460e6d473c4ba7fd9b5cd02cb3b7dc9f4ab59c90f",
+    "正式待发表/第30章_泡面午餐肉爆红_正文_v1.md": "f2ab6efba4668adc4dc418a5b67ebe1992ff587be9d960b2183d83d65c88e46e",
+    "正式待发表/第51章_午餐肉涨价_正文_v2.md": "62cc60da54324a38cd7d00bbf351e6d7c280c18228ebba4215d7dd4865bc9a20",
+    "正式待发表/第6章_黑屏三秒以后_正文_v2.md": "1602dfb4a73531011cbd6814d4e09aca62b529051883a43f9d9d0e24293ee3ca",
+    "正式待发表/第76章_庞永和要求压制传播_正文_v1.md": "2b753192689b7df047fe17bf89f52d8972332bfe652f3d4933cd21a7309e3eb9",
+    "正式待发表/第31章_第一条求助留言_正文_v1.md": "ea2baeea229a95a952975ad7c5b125e28ce9386b2cd3cd0c459dc99a0d475a68",
+    "正式待发表/第22章_不管你是不是霸主_正文_v2.md": "46da00f703ee7d130388b321584a090397999271549820b8794f15a07747f0c6",
+    "正式待发表/第73章_假审判令_正文_v1.md": "4dc62d3848ebdf249a35cc61f3c06d2566b9c57af4023497a77f60fb2e165c4a",
+    "正式待发表/第24章_事故发生了_正文_v2.md": "71158e9d7c00ee5ac1deb879b0a324d6ff2cfba6fabc800aff7b7a5aa83292c9",
+    "正式待发表/第68章_假求助_正文_v1.md": "72bc00b42d9238039a7ec8fef22d17faf312eeb943159b926e45cfaec91be9ff",
+    "正式待发表/第15章_钉子偷拆辅助机器人_正文_v1.md": "1c00b2fe70c91ce96326afd9ae12070cabc11b629898ebe1e658bd9facff19c9",
+    "正式待发表/第52章_钉子的废件圣物_正文_v2.md": "2521d21f5c075fc9008f524fa6ce42e9fe6ced209c4bfbcf31976754621926dd",
+    "正式待发表/第66章_莉莉娅开始分类_正文_v1.md": "25f14af209e6180e29343beb6a6f0265d8629b8dd9b1e1a2b7efb89b758f0065",
+    "正式待发表/第2章_正文_v3.md": "c442f6332bde8f3ca49f617b66486d04980dfb62332213b7dfc577a7b1597964",
+    "正式待发表/第29章_标题比谣言还可怕_正文_v1.md": "d28dc1c4269a463cf1140beda55f0a7829f2ad8493f097aaa4dd0f59321d2a79",
+    "正式待发表/第47章_太阳系观察站_正文_v1.md": "8700d6d7c0efd2f55c5c205ae00904a201796ebb0b22a78b5e1fd5700e307643",
+    "正式待发表/第44章_人类碰瓷模型崩溃_正文_v1.md": "428b1608b080577562d996d113535ee0b62858a9f62daeb8e2fe4f7ca14cd55b",
+    "正式待发表/第21章_火星交通仲裁庭受理_正文_v2.md": "7533d6e67b4104b7536f406c05615b71166411bf0b49e83e7466d12708719615",
+    "正式待发表/第54章_声明被误读_正文_v2.md": "fe4ed89579735c7bce177e69b3f3d65d336e679931dce5a44cb37bd625a2b61b",
+    "正式待发表/第56章_午餐肉代言合同_正文_v1.md": "7d1b26a6f024af7e37cbb03ff9f2e918b7deb37eef6275a80bcf71c7999df4c6",
+    "正式待发表/第9章_无所属文明编制_正文_v3.md": "395a5a5098ed5ffe1c9fe53d1845bdfea6600bb0c427a19ff435fed30d3e61c2",
+    "正式待发表/第61章_莉莉娅追查盗版源头_正文_v1.md": "4838667f962119c361c11eb0102c4c2dcb927d96416170cde7f0ae393609107a",
+    "正式待发表/第26章_实习记者上线_正文_v1.md": "fa1e222b57d2547e51ca64de1c06f4c8fb4303a18af72ed7e4231dfcc86470d6",
+    "正式待发表/第42章_控制派庞永和_正文_v1.md": "204398b5909bd381ec7ce015886c3bea0ab2d8f1f28d7ecd1a690f616e11c2fc",
+    "正式待发表/第70章_已经交出三座城市_正文_v1.md": "82f3090d55253978b0287476387a8138eb13a495af27ee51800e74fd624640d0",
+    "正式待发表/第28章_虫子和钉子入镜_正文_v1.md": "8eb51f76944317cc233244047f46be71a5b9c00a63ff6ede92a7a2c7126b229b",
+    "正式待发表/第35章_我不是审判舰_正文_v1.md": "e1e1d885b56bd2c3aee669b79f4d69e60704ed70fd203681c4e5c52be3324e28",
+    "正式待发表/第77章_乔纳斯盯上旧协议_正文_v1.md": "b55562c30b671fd14de25bb942a4c93e7112d23b4383c5b003eb4eb4fb03b063",
+    "正式待发表/第4章_虫子不吃这个_正文_v2.md": "d860d87f606b053f308e24aebddb0c54d47baeacb12abeca7b117eb4a100a74f",
+    "正式待发表/第65章_求助留言暴涨_正文_v1.md": "4aa7f6958f25918921eb73c1bb7c4964a7211067c67fa4656300e68df913953c"
+  },
+  "scan_note": "引号文本包括对白、词语引用、内心话、标签；不能当作实际对白数量。",
+  "count_method": "按合订稿外层第N章_标题切章，移除单章原有章节标题后，统计 [一-鿿]；不含标题及空白。matches 去掉标题和空白后比较，未忽略标点或词语替换。"
+}
