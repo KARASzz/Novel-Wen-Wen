@@ -1,15 +1,16 @@
 {
   "master": "正式待发表/《我真不是霸主文明》1-80.txt",
-  "sha256": "d2bd87de2a8eb860bc2f68a1b9d77b17340ec9e844ead6f37ef645fd362ae6e9",
+  "sha256": "b0101ad4e42b68266563c19b8c3b9addc095ba5d04043bbe55cd9a6531bfd567",
   "chapters": [
     {
       "chapter": 1,
       "single": "正式待发表/第1章_正文_v3.md",
       "matches": true,
-      "body_hanzi": 2911,
+      "body_hanzi": 2899,
       "combined_start_line": 3,
       "combined_end_line": 222,
-      "in_range": true
+      "in_range": true,
+      "note": "2026-09-30 标题行补上 # 前缀后由 2911 更正为 2899（原值多算标题 12 字）；正文未改。"
     },
     {
       "chapter": 2,
