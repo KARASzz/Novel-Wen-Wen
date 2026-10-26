@@ -1,0 +1,42 @@
+[
+  {
+    "path": "写作进度台账.md",
+    "local_sha256": "bbc44c0ec9e7390990f007988e981133ef9245468effd2e93f4638fa3cc62274",
+    "remote_sha256": "16302f1c9db83a1feea7fc36ef8a05ded5cc1fbdc639f6f58c32bfdcf4975b93"
+  },
+  {
+    "path": "正式待发表/第121章_虫子梦见巢_正文_v1.md",
+    "local_sha256": "ef9e0e357fb8a4b3cb551df0ca275ffae79acf00522033f242640d294582ecec",
+    "remote_sha256": "cb19886bd7339b7b38c7e958c275b31e6e3d9dacd35f728e2e8c7bf0b63db335"
+  },
+  {
+    "path": "正式待发表/第122章_钉子听见协议噪声_正文_v1.md",
+    "local_sha256": "e57030caba8ef0c4ff4705acd5166b2fde7eb324a8ade052417875e27cf69139",
+    "remote_sha256": "8e4c7a1ecbc330529782b55777cf602cd4bb02765f8df5974a04c5f375756818"
+  },
+  {
+    "path": "正式待发表/第123章_别让它完整_正文_v1.md",
+    "local_sha256": "dd7d0bbb06b6ab7549ef7cd910981f6ac478330d486422b8f994f9e40b544032",
+    "remote_sha256": "5a689de232097e7f43f771f247eb03f90a3dca6fed34151bf1d3f52b84ce9080"
+  },
+  {
+    "path": "正式待发表/第124章_第二份假协议响应_正文_v1.md",
+    "local_sha256": "4b1262585ccc86ca1bece84e54cce52bda61b072219b0dd0d1588fcab089e1e4",
+    "remote_sha256": "74d218c6a65ce4ffe1eed9c60c6f9dd415ff1e5e3d1fe0e7add10a181ec272c4"
+  },
+  {
+    "path": "正式待发表/第125章_去找那个骗子_正文_v1.md",
+    "local_sha256": "90483db683341497c1e3897d6b4b5c9ac06d32a4854e932c2edc87ae334faae0",
+    "remote_sha256": "c2e07d73b06b68996fbf35b5344639529214fc76a865299d476a88acad84e279"
+  },
+  {
+    "path": "第三卷-施工/审稿/第121-125章_审稿意见_v1.md",
+    "local_sha256": "82d7980d3a247e601862b99896c8358725e848d0f69b3333ad0ae3b45600e8c9",
+    "remote_sha256": "3e4d174f716c347a8cf5d6af732097fc121de49b3eb68f748e7a8bb7355c9cb0"
+  },
+  {
+    "path": "第三卷-施工/第121-125章_五拍章纲_v1.md",
+    "local_sha256": "52fe6a5a94934cf6ec456dc8e4f4c0dcd86d1e1c1bf6bddb9b00601142b283bf",
+    "remote_sha256": "b0e2d59ba93904b4a69e9c561dc25517e3cebf183a85845f567b0ef41ee642fe"
+  }
+]
