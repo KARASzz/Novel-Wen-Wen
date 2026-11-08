@@ -1,0 +1,4 @@
+interface:
+  display_name: "番茄网文正文"
+  short_description: "创作和润色中文番茄男频正文，强化爽点、节奏、对白与章末钩子"
+  default_prompt: "Use $fanqie-webnovel-prose to draft a fast-paced Chinese web-novel chapter from my outline."

@@ -1,0 +1,6 @@
+interface:
+  display_name: "中文小说去 AI 专项"
+  short_description: "末轮清理模板腔并保护人物原声"
+  default_prompt: "Use $fiction-humanizer-zh to perform a restrained final humanization pass on this Chinese fiction chapter."
+policy:
+  allow_implicit_invocation: false

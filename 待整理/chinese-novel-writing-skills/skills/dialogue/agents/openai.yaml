@@ -1,0 +1,6 @@
+interface:
+  display_name: "中文小说人物对白"
+  short_description: "创作、重写并诊断人物声线与潜台词"
+  default_prompt: "Use $dialogue to write or revise this Chinese fiction conversation with distinct voices and active subtext."
+policy:
+  allow_implicit_invocation: true

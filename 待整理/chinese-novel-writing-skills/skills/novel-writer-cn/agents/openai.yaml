@@ -1,0 +1,6 @@
+interface:
+  display_name: "中文小说创作总路由"
+  short_description: "协调大纲、人物、章节、修订与连续性"
+  default_prompt: "Use $novel-writer-cn to coordinate this multi-stage Chinese fiction project."
+policy:
+  allow_implicit_invocation: true
